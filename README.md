@@ -4,7 +4,7 @@ This is an implementation of the [infinite monkey theorem](https://en.wikipedia.
 
 ## Usage
 
-The cpp file can be compiled using C++. The executable can be called without any command line arguments. Upon execution, you will be prompted for a word to type. This word may contain letters, numbers, periods, commas, and spaces.
+The cpp file can be compiled using g++ with no additional flags. The executable can be called without any command line arguments. Upon execution, you will be prompted for a word to type. This word may contain letters, numbers, periods, commas, and spaces.
 
 It is recommended that you keep this word small (5 letters or less). This is because the monkey is not very good at typing big words.
 
